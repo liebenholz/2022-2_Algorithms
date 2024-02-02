@@ -1,0 +1,12 @@
+symbol  frequency
+a   70
+b   10
+c   27
+d   31
+e   91
+f   18
+g   9
+h   14
+i   57
+j   5
+k   7
